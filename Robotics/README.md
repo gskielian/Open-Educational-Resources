@@ -3,7 +3,7 @@ Robotics
 
 This is an intersect of physics (mechanics, electricity), programming and technology.
 
-### Open-Curriculum for Classsroom Robotics
+### Open-Curriculum for Classroom Robotics:
 
 From experience, robotics is an extremely exciting for students, but normally a budgetary and curricula hurdles
 exist between it and the classroom.
