@@ -17,8 +17,8 @@ Each plan will have:
  * time estimates
  * Questions
   * Automated Worksheet Generation
-  * Automated Quiz Generation with option for different orders
-*
+* Automated Quiz Generation with option for different orders
+
 
 
 Index of Contributions:
