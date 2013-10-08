@@ -7,6 +7,19 @@ or even some database for filtering the results based on lesson type, common cor
 Eventually to construct a lesson plan generator which can customize the plan to individual class's needs and provide ease-of-implementation 
 presenting budget estimates and direct links to suppliers.
 
+Each plan will have:
+* Budget
+* Materials
+* Space Requirements
+* Core Objectives
+* Activities
+ * notes on "must come after ___" or "before ____"
+ * time estimates
+* Questions
+ * Automated Worksheet Generation
+ * Automated Quiz Generation with option for different orders
+*
+
 
 Index of Contributions:
 
