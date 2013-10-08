@@ -20,4 +20,4 @@ in afterschool robotics programs in VVMS, TechLab, and Galileo HS SF.
 
 
 ### Props:
-(star if you like the repository :smiley:)
+(please star if you like the repository)
