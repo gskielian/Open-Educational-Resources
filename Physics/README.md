@@ -10,7 +10,7 @@ presenting budget estimates and direct links to suppliers.
 
 Index of Contributions:
 
-|         Name of Lab         | Contributor |     School         |         City       | State | Country |
-|         :---------:         | :---------: |     :----:         |         :---:      | :---: | :-----: |
-| [SlinkyLab](SlinkyLab.json) | Mr. Barrios | Galileo High School|  San Francisco     |  CA   | United States |
+| Unit |         Name of Lab         | Contributor |     School         |         City       | State | Country |
+| :---:|         :---------:         | :---------: |     :----:         |         :---:      | :---: | :-----: |
+| Waves| [SlinkyLab](SlinkyLab.json) | Mr. Barrios | Galileo High School|  San Francisco     |  CA   | United States |
  
