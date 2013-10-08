@@ -1,11 +1,24 @@
 {
-     ClassType: "Labette"
-   , TeamSize: "2"
-   , Materials: { Slinky : 
-                        { 
-                          cost : 17.64 
-                        , link : "http://www.amazon.com/60mm-Metal-Coiled-Spring-Waveform/dp/B009SNGB08/ref=pd_sim_misc_3"
-                        , perStudent : "0.5"
-                        }
-                }
+    "ClassType": "Labette"
+    , "TeamSize": "2"
+    , "Materials": {
+        "Slinky": {
+            "Cost": "17.64"
+            , "Link": "http://www.amazon.com/60mm-Metal-Coiled-Spring-Waveform/dp/B009SNGB08/ref=pd_sim_misc_3",
+              "PerStudent": "0.5"
+        }
+     , "Activities": {
+          "WavesTravelThrough" : {
+               "Description" : "One student makes a small wave, another a large wave on opposite ends."
+               ,"Question" : {
+                    "Multiple Choice" : { 
+                         "a" : "the waves pass through each other"
+                         ,"b": "the waves bounce off each other"
+                    }
+               }
+          }
+     }  
+            
+       
+    }
 }
