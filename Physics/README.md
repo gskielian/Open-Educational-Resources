@@ -13,7 +13,7 @@ Each plan will have:
 * Space Requirements
 * Core Objectives
 * Activities
- * notes on *"must come after *"* or *"before *"*
+ * notes on **"must come after *"** or **"before *"**
  * time estimates
 * Questions
  * Automated Worksheet Generation
