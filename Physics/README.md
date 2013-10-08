@@ -7,7 +7,7 @@ or even some database for filtering the results based on lesson type, common cor
 Eventually to construct a lesson plan generator which can customize the plan to individual class's needs and provide ease-of-implementation 
 presenting budget estimates and direct links to suppliers.
 
-Each plan will have:
+### Each plan will have:
 * Budget
 * Materials
 * Space Requirements
@@ -21,7 +21,7 @@ Each plan will have:
 
 
 
-Index of Contributions:
+### Index of Contributions:
 
 | Unit |         Name of Lab         | Contributor |     School         |         City       | State | Country |
 | :---:|         :---------:         | :---------: |     :----:         |         :---:      | :---: | :-----: |
