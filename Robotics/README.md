@@ -1,5 +1,21 @@
+Robotics
+========
+
 This is an intersect of physics (mechanics, electricity), programming and technology.
 
-At the moment, I will be ironing out an open-curriculum for a budget robotics course.
+### Open-Curriculum for Robotics
 
+From experience, robotics is an extremely exciting for students, but normally a budgetary and curricula hurdles
+exist between it and the classroom.
+
+Using the extremely affordable Arduino (can get 20+ arduinos for the cost of one NXT), and choice
+sensors, studnets will build their own robot from basic-hardware components.
+
+
+### Todo:
+At the moment, I am ironing out an open-curriculum for a budget robotics course based on experience
+in afterschool robotics programs in VVMS, TechLab, and Galileo HS SF.
+
+
+### Props:
 (star if you like the repository :smiley:)
