@@ -1,0 +1,11 @@
+{
+     ClassType: "Labette"
+   , TeamSize: "2"
+   , Materials: { Slinky : 
+                        { 
+                          cost : 17.64 
+                        , link : "http://www.amazon.com/60mm-Metal-Coiled-Spring-Waveform/dp/B009SNGB08/ref=pd_sim_misc_3"
+                        , perStudent : "0.5"
+                        }
+                }
+}
