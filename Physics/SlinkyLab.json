@@ -11,9 +11,19 @@
             "WavesTravelThrough": {
                 "Description": "One student makes a small wave, another a large wave on opposite ends.",
                 "Question": {
-                    "Multiple Choice": {
+                    "MultipleChoice": {
                         "a": "the waves pass through each other",
                         "b": "the waves bounce off each other"
+                    }
+                },
+                "TimeInMinutes": "10"
+            }
+            "TensionAndSpeed": {
+                "Description": "Students increase tension of the slinky by pulling more of the spring in at around 20 ft, and comparing th taut spring to the loose spring.",
+                "Question": {
+                    "MultipleChoice": {
+                        "a": "A looser slinky, the waves travel slower",
+                        "b": "A looser slinky, the waves travel faster"
                     }
                 },
                 "TimeInMinutes": "10"
