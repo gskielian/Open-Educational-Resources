@@ -17,7 +17,7 @@
                     }
                 },
                 "TimeInMinutes": "10"
-            }
+            },
             "TensionAndSpeed": {
                 "Description": "Students increase tension of the slinky by pulling more of the spring in at around 20 ft, and comparing th taut spring to the loose spring.",
                 "Question": {
