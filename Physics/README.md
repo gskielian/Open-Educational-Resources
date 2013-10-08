@@ -8,6 +8,9 @@ Eventually to construct a lesson plan generator which can customize the plan to 
 presenting budget estimates and direct links to suppliers.
 
 
-Contributions:
+Index of Contributions:
 
-* [SlinkyLab](SlinkyLab.json), Mr. Barrios, Galileo High School, San Francisco, CA
+|         Name of Lab         | Contributor |     School         |         City       | State | Country |
+|         :---------:         | :---------: |     :----:         |         :---:      | :---: | :-----: |
+| [SlinkyLab](SlinkyLab.json) | Mr. Barrios | Galileo High School|  San Francisco     |  CA   | United States |
+ 
