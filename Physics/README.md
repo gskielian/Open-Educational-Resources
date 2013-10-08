@@ -11,6 +11,7 @@ Each plan will have:
 * Budget
 * Materials
 * Space Requirements
+* Time Requirements (Modularized by activity)
 * Core Objectives
 * Activities
  * notes on **"must come after *"** or **"before *"**
