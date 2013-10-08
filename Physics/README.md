@@ -14,11 +14,10 @@ Each plan will have:
 * Time Requirements (Modularized by activity)
 * Core Objectives
 * Activities
- * notes on **"must come after *"** or **"before *"**
  * time estimates
-* Questions
- * Automated Worksheet Generation
- * Automated Quiz Generation with option for different orders
+ * Questions
+  * Automated Worksheet Generation
+  * Automated Quiz Generation with option for different orders
 *
 
 
