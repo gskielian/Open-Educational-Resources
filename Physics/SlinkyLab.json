@@ -1,6 +1,13 @@
 {
     "ClassType": "Labette",
     "TeamSize": "2",
+    "SpaceRequirements" : {
+        "SpaceType" : "FloorSpace",
+        "PerTeam" : { 
+            "WidthMeters" : "1.5",
+            "LengthMeters": "6",
+            "HeightMeters": "NA"
+    },
     "Materials": {
         "Slinky": {
             "Cost": "17.64",
