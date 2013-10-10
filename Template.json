@@ -1,0 +1,50 @@
+{
+    "ClassType": "Demo/Lab/Direct-Instruction",
+    "TeamSize": "2",
+    "SpaceRequirements" : {
+        "SpaceType" : "Desk",
+        "PerTeam" : { 
+            "WidthMeters" : "0.5",
+            "LengthMeters": "0.5",
+            "HeightMeters": "NA"
+    },
+    "Materials": {
+        "Ultrasonic": {
+            "Cost": "1.72",
+            "Link": "http://www.ebay.com/itm/5pcs-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-Arduino-/121117287177?pt=LH_DefaultDomain_0&hash=item1c33272309",
+            "PerTeam": "1"
+        },
+        "Arduino": {
+            "Cost": "12.79",
+            "Link": "http://www.ebay.com/itm/UNO-R3-ATmega328P-ATmega16U2-Free-Cable-for-Arduino-FAST-US-QUALITY-SHIP-/181233924280?pt=LH_DefaultDomain_0&hash=item2a326238b8",
+            "PerTeam": "1"
+        },
+        "JumperCables": {
+            "Cost": "12.79",
+            "Link": "http://www.ebay.com/itm/UNO-R3-ATmega328P-ATmega16U2-Free-Cable-for-Arduino-FAST-US-QUALITY-SHIP-/181233924280?pt=LH_DefaultDomain_0&hash=item2a326238b8",
+            "PerStudent": "4"
+        },        
+        "Activities": {
+            "WavesTravelThrough": {
+                "Description": "One student makes a small wave, another a large wave on opposite ends.",
+                "Question": {
+                    "MultipleChoice": {
+                        "a": "the waves pass through each other",
+                        "b": "the waves bounce off each other"
+                    }
+                },
+                "TimeInMinutes": "10"
+            },
+            "TensionAndSpeed": {
+                "Description": "Students increase tension of the slinky by pulling more of the spring in at around 20 ft, and comparing th taut spring to the loose spring.",
+                "Question": {
+                    "MultipleChoice": {
+                        "a": "A looser slinky, the waves travel slower",
+                        "b": "A looser slinky, the waves travel faster"
+                    }
+                },
+                "TimeInMinutes": "10"
+            }
+        }
+    }
+}
