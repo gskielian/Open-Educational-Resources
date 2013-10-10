@@ -17,7 +17,7 @@ presenting budget estimates and direct links to suppliers.
  * time estimates
  * Questions
   * Automated Worksheet Generation
-* Automated Quiz Generation with option for different orders
+* Automated Quiz Generation with option for different orders (Test A, Test B, Test C, etc.)
 
 
 
