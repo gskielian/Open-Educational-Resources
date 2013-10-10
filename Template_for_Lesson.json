@@ -22,7 +22,7 @@
     },
     "Activities": {
         "WavesTravelThrough": {
-            "Description": "One student makes a small wave, another a large wave on opposite ends.",
+            "Description": "Make a wave from both ends of the slinky so that they meet in the middle.  Have one of your teammates try sending a small pulse toward a big pulse.  Ask yourself if the waves are passing through each other or bouncing off.  ",
             "Question": {
                 "MultipleChoice": {
                     "a": "the waves pass through each other",
