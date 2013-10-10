@@ -1,5 +1,5 @@
 {
-    "ClassType": "Demo/Lab/Direct-Instruction",
+    "ClassType": "Labettec",
     "TeamSize": "2",
     "SpaceRequirements" : {
         "SpaceType" : "Desk",
@@ -29,7 +29,7 @@
                     "b": "the waves bounce off each other"
                 }
             },
-            "TimeInMinutes": "10"
+            "TimeInMinutes": "20"
         },
         "TensionAndSpeed": {
             "Description": "Students increase tension of the slinky by pulling more of the spring in at around 20 ft, and comparing the loose spring to tighter spring.",
@@ -39,7 +39,7 @@
                     "b": "A looser slinky, the waves travel faster"
                 }
             },
-            "TimeInMinutes": "10"
+            "TimeInMinutes": "20"
         }
         
     }
