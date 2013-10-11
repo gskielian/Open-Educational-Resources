@@ -1,15 +1,15 @@
 {
-    "ClassType": "Labettec",
+    "ClassType": "Lab",
     "TeamSize": "2",
     "SpaceRequirements" : {
-        "SpaceType" : "Desk",
+        "SpaceType" : "Floor",
         "PerTeam" : { 
             "WidthMeters" : "0.5",
-            "LengthMeters": "0.5",
+            "LengthMeters": "6",
             "HeightMeters": "NA"
     },
     "Materials": {
-        "Material1": {
+        "MaterialInUpperCamelCase": {
             "Cost": "1.72",
             "Link": "http://www.ebay.com/itm/5pcs-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-Arduino-/121117287177?pt=LH_DefaultDomain_0&hash=item1c33272309",
             "PerTeam": "1"
@@ -22,24 +22,26 @@
     },
     "Activities": {
         "WavesTravelThrough": {
+            "TimeInMinutes": "20",
             "Description": "Make a wave from both ends of the slinky so that they meet in the middle.  Have one of your teammates try sending a small pulse toward a big pulse.  Ask yourself if the waves are passing through each other or bouncing off.  ",
             "Question": {
                 "MultipleChoice": {
                     "a": "the waves pass through each other",
                     "b": "the waves bounce off each other"
                 }
-            },
-            "TimeInMinutes": "20"
+            }
         },
         "TensionAndSpeed": {
+            "TimeInMinutes": "20",
             "Description": "Students increase tension of the slinky by pulling more of the spring in at around 20 ft, and comparing the loose spring to tighter spring.",
             "Question": {
-                "MultipleChoice": {
-                    "a": "A looser slinky, the waves travel slower",
-                    "b": "A looser slinky, the waves travel faster"
+                "ShortFreeResponse": {
+                    "Q1": { 
+                        "Question" : "After tightening the spring, what happens to the wave speed",
+                        "AnswerKey": "Wave speed will increase after tightening the spring"
                 }
             },
-            "TimeInMinutes": "20"
+     
         }
         
     }
