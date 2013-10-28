@@ -4,4 +4,4 @@ I will be using this folder to keep applications which will help my students rev
 ### Table Of Apps 
 |       App      |      Description              | Folder is Created | Doing | Completed | 
 |      :---:     |         :---:                  |  :---:             | :---: |    :---:  |
-| [Moles -> Grams](./moles2grams/) | Given "n" moles how many grams? |  | | | 
+| [Moles -> Grams](./moles2grams/) | Given "n" moles how many grams? | :star2: | | | 
